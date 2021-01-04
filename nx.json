@@ -29,6 +29,12 @@
     "nxrd-e2e": {
       "tags": [],
       "implicitDependencies": ["nxrd"]
+    },
+    "backend": {
+      "tags": []
+    },
+    "data": {
+      "tags": []
     }
   }
 }
